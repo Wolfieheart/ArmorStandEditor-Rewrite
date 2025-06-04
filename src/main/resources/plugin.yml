@@ -1,4 +1,4 @@
 name: ArmorStandEditor
-version: '1.0-SNAPSHOT'
-main: io.github.rypofalem.armorStandEditor.ArmorStandEditorMain
+version: '0.x-REWRITE'
+main: io.github.rypofalem.armorstandeditor.ArmorStandEditorMain
 api-version: '1.21'
